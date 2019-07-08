@@ -1,8 +1,8 @@
-![Stars](https://img.shields.io/github/stars/ashish1993utd/Chatbot.svg?style=social)
-![Forks](https://img.shields.io/github/forks/ashish1993utd/Chatbot.svg?style=social)
-![Language](https://img.shields.io/github/languages/top/ashish1993utd/Chatbot.svg)
-[![GitHub](https://img.shields.io/github/license/harshbg/Chatbot.svg)](https://choosealicense.com/licenses/mit)
-[![HitCount](http://hits.dwyl.io/ashish1993utd/Chatbot.svg)](http://hits.dwyl.io/ashish1993utd/Chatbot)
+![Stars](https://img.shields.io/github/stars/ashish1993utd/Chatbot-using-NLP.svg?style=social)
+![Forks](https://img.shields.io/github/forks/ashish1993utd/Chatbot-using-NLP.svg?style=social)
+![Language](https://img.shields.io/github/languages/top/ashish1993utd/Chatbot-using-NLP.svg)
+[![GitHub](https://img.shields.io/github/license/ashish1993utd/Chatbot-using-NLP.svg)](https://choosealicense.com/licenses/mit)
+[![HitCount](http://hits.dwyl.io/ashish1993utd/Chatbot-using-NLP.svg)](http://hits.dwyl.io/ashish1993utd/Chatbot-using-NLP)
 
 ## Demo
 ![Example screenshot](./img/demo.gif)
