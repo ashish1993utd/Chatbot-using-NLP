@@ -12,7 +12,7 @@
 
 ## Screenshots
 
-![Example screenshot](./img/1.PNG)
+![Example screenshot](./img/1.png)
 ![Example screenshot](./img/2.PNG)
 ![Example screenshot](./img/3.PNG)
 ![Example screenshot](./img/4.PNG)
