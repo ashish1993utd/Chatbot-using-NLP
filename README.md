@@ -5,17 +5,17 @@
 [![HitCount](http://hits.dwyl.io/ashish1993utd/Chatbot-using-NLP.svg)](http://hits.dwyl.io/ashish1993utd/Chatbot-using-NLP)
 
 ## Demo
-![Example screenshot](./img/demo.gif)
+![Example screenshot](./img/Demo.gif)
 
 **The entire demo of the project can be found on [YouTube](http://bit.ly/2XxdRjb).**
 
 
 ## Screenshots
 
+![Example screenshot](./img/2.png)
 ![Example screenshot](./img/1.png)
-![Example screenshot](./img/2.PNG)
-![Example screenshot](./img/3.PNG)
-![Example screenshot](./img/4.PNG)
+![Example screenshot](./img/3.png)
+![Example screenshot](./img/4.png)
 
 ## Technologies and Tools
 * SQL Server 
