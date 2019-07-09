@@ -4,7 +4,7 @@
 [![GitHub](https://img.shields.io/github/license/ashish1993utd/Chatbot-using-NLP.svg)](https://choosealicense.com/licenses/mit)
 [![HitCount](http://hits.dwyl.io/ashish1993utd/Chatbot-using-NLP.svg)](http://hits.dwyl.io/ashish1993utd/Chatbot-using-NLP)
 
-### Built a Cricket News chat bot using Microsoft Bot Framework, JavaScript, node js, LUIS - a Natural Language Processor cognitive service from Microsoft Azure, and SQL Server.
+### Built a chat bot using Microsoft Bot Framework, JavaScript, node js, LUIS - a Natural Language Processor cognitive service from Microsoft Azure, and SQL Server.
 
 ## Demo
 ![Example screenshot](./img/Demo.gif)
