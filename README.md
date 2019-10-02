@@ -12,7 +12,7 @@
 **The entire demo of the project can be found on [YouTube](http://bit.ly/2XxdRjb).**
 
 
-## Screenshots
+## Screenshot
 
 ![Example screenshot](./img/2.png)
 ![Example screenshot](./img/1.png)
